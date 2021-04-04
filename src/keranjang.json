@@ -1,0 +1,24 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Iphone 5s",
+      "gambar": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fauliaoktavella.it.student.pens.ac.id%2FSemester2%2FDesain%2520dan%2520Pemrograman%2520Web%2F21-b%2Ftugas-smartphone.html&psig=AOvVaw3F3YzNoAYw8KskmkqEGNBH&ust=1617618314414000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDh-YGw5O8CFQAAAAAdAAAAABAJ",
+      "harga": 2000000,
+      "stok": 2,
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "nama": "iPhone 12",
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/1-8b05fc9008f9c71743d67e8616de4f0f.jpg",
+      "harga": 17000000,
+      "stok": 2,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "smartphone": [
+    {
+      "id": 1,
+      "nama": "Iphone 5s",
+      "harga": 2000000,
+      "gambar": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fauliaoktavella.it.student.pens.ac.id%2FSemester2%2FDesain%2520dan%2520Pemrograman%2520Web%2F21-b%2Ftugas-smartphone.html&psig=AOvVaw3F3YzNoAYw8KskmkqEGNBH&ust=1617618314414000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDh-YGw5O8CFQAAAAAdAAAAABAJ",
+      "stok": 2
+    },
+    {
+      "id": 2,
+      "nama": "iPhone 12",
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/1-8b05fc9008f9c71743d67e8616de4f0f.jpg",
+      "harga": 17000000,
+      "stok": 2
+    },
+    {
+      "id": 3,
+      "nama": "Xiaomi Mi 10",
+      "harga": 9000000,
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/2-3ad0d99e38fc6d1e53eef4251ff5e9d4.jpg",
+      "stok": 2
+    },
+    {
+      "id": 4,
+      "nama": "Nokia 8.2 5G",
+      "harga": 7000000,
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/3-8f270ee63e9c0cc057fd325f7ee4f0dd.jpg",
+      "stok": 2
+    },
+    {
+      "id": 5,
+      "nama": " OnePlus 8",
+      "harga": 10000000,
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/5-cfbf29065d68e6a42fd46a0a90d42f73.jpg",
+      "stok": 2
+    },
+    {
+      "id": 6,
+      "nama": "Samsung Galaxy S11",
+      "harga": 9000000,
+      "gambar": "https://cdn.idntimes.com/content-images/post/20191212/6-33a59ee925c2ec9e1cf14e8ed63a9f4a.jpg",
+      "stok": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
